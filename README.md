@@ -1,4 +1,12 @@
 # JS-Dom-Projects
-This is the First Project of the Series.
-In this project I have created a Facebook Friend Request Feature to Add or Remove a Person.
-I have Used HTML, CSS for the Design and JavaScript for Functionality.
+In this series of JavaScript DOM projects I have created 5 Different Projects.
+All the 5 projects can be implemented in real Life.
+
+The List of the Projects are as follows:
+
+-> Add Friend Feature with same Button.
+-> Instagram Love Button with transition.
+-> Custom Cursor.
+-> Multiple Image Hovering Animation.
+-> Insagram Story Feature.
+
