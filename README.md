@@ -10,3 +10,5 @@ The List of the Projects are as follows:
 -> Multiple Image Hovering Animation.
 -> Insagram Story Feature.
 
+**After completing these small projects we can create an Instagram Clone by merging them together**
+
